@@ -10,6 +10,11 @@ No more digging through dashboards to find out a location has idle cars. The pro
 
 <!-- In GitHub's editor, drag fleet_alert_walkthrough_github.mp4 here. It uploads and turns into a playable video. -->
 
+
+https://github.com/user-attachments/assets/f1e8b21b-7180-4d3c-ae5b-0ec96c9ea9e2
+
+
+
 ---
 
 ## Why alerts, not just dashboards
